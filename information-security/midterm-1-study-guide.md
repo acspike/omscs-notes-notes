@@ -14,7 +14,7 @@ Which Type of control is based on the identity of the requestor and the access r
 - A) Mandatory Access Control (MAC)
 - B) Role-based access control (RBAC)
 - C) Discretionary access control (DAC)
-- D)Attribute-based access control (ABAC)
+- D) Attribute-based access control (ABAC)
 
 <details>
 <summary>Answer</summary>
@@ -486,7 +486,7 @@ Question: In a DBMS, what happens in the following scenario assuming each of the
 - Ellen grants access right to Jim.
 - Bob revokes access right from David.
 
-- A.David no longer has the access right.
+- A. David no longer has the access right.
 - B. David, Ellen, Frank, and Jim no longer have the access right.
 - C. David, Ellen, and Jim no longer have the access right.
 - D. Ellen and Jim no longer have the access right.
@@ -506,7 +506,7 @@ The Trusted Computing Base or TCB has 3 main requirements which of the following
 - A.) Complete mediation between the OS and the hardware resources and applications. In addition the OS must make sure the application has the necessary authorizations.
 - B.) The OS must be tamperproof.
 - C.) The OS must must be able to go from user to kernel mode without erros
-- D.)The OS must be correct­­ the protected resources are used properly
+- D.) The OS must be correct­­ the protected resources are used properly
 
 <details>
 <summary>Answer</summary> C
@@ -676,6 +676,7 @@ Source: book p.111
 </details>
 
 
+Question: missing
 
 - A.) Permitted Access Rights
 - B.) Users
@@ -716,8 +717,6 @@ Source: Lecture 5 notes
 </details>
 
 ## Project 1
-
-Name: Chris Taylor
 
 Question: The _________ contains the base address of data stored within the stack for the current procedure.
 
@@ -806,8 +805,10 @@ user, group, world/other
 
 What are the "classic" 3 permissions afforded to the subjects in unix-like?
 
+<details>
+<summary>Answer</summary>
 Read (r), Write(w), Execute(x)
-
+</details>
 
 
 
@@ -817,7 +818,7 @@ A user (U) can run with the permission of the file creator (C) under what condit
 - b) C has read, write, and execute permissions
 - c) Set User ID
 - d) Set Group ID
-- e) a nd c
+- e) a and c
 - f) all of the above
 
 <details>
@@ -839,7 +840,7 @@ What is an inode (index node)?
 
 - A.) An inode is part of a linked list design for memory storage
 - B.) An inode is a special directory only to bee seen by root
-- C.)An inode is a control structure that contains information needed by the OS for a file.
+- C.) An inode is a control structure that contains information needed by the OS for a file.
 - D.) An inode is a user permission for a given user group.
 
 <details>
@@ -899,12 +900,12 @@ Page 448
 
 Which of the following is NOT key component in IOT enabled devices
 
-- A)Actuator
-- B)Sensor
-- C)Microcontroller
-- D)Transceiver
-- E)Back Bone network
-- F)Radio-frequency Identification (RFID)
+- A) Actuator
+- B) Sensor
+- C) Microcontroller
+- D) Transceiver
+- E) Back Bone network
+- F) Radio-frequency Identification (RFID)
 
 <details>
 <summary>Answer</summary>  E. backbone network connects geographically dispersed fog networks as well as provides access to other networks that are not part of the enterprise network.
@@ -934,7 +935,7 @@ Which Malware was the first of a new generation that included aspects of virus, 
 - a) Morris worm
 - b) Melissa e-mail worm
 - c) Cod Red worm
-- d)WannaCry ransomware
+- d) WannaCry ransomware
 
 <details>
 <summary>Answer</summary>  b
@@ -947,9 +948,9 @@ global edition pg. 219 chapter 6, Malicious software
 What type of Malware is Easter egg?
 
 - a) Virus
-- b)Worm
-- c)Trojan
-- d)Trapdoor
+- b) Worm
+- c) Trojan
+- d) Trapdoor
 
 <details>
 <summary>Answer</summary>  d
@@ -959,7 +960,7 @@ Malicious Code slides
 
 
 
-What is software the collects information form a computer and transmits it to another system monitoring keystrokes, network traffic and other screen data?
+What is software that collects information from a computer and transmits it to another system monitoring keystrokes, network traffic, and other screen data?
 
 - A.) Spammer Programs
 - B.) Keylogger
@@ -1032,7 +1033,7 @@ Source: book p.15
 
 
 
-According to RFC 4949 there are four kinds of threats which threat consequence is not part of RFC 4949?
+According to RFC 4949 there are four kinds of threats. Which threat consequence is not part of RFC 4949?
 
 - A.) Unauthorized Disclosure
 - B.) Deception
@@ -1305,7 +1306,7 @@ Source: Book p.68
 Question:
 In the areas of Risk assurance levels are classified on a system of numbers 1 through 4. Pick the appropriate option which describes these risks accordingly:
 
-- A.) Assurance Level of 1 tells us that users level is appropriate to access restricted services of very high value, Level 2 let's users access documents and services which are of a high a value but no the highest, Level 3 is where the secure authentication protocol is needed so we know who is accessing what, Level 4 there is little to no authentication at this level there is o confidence in the asserted identity's validity.
+- A.) Assurance Level of 1 tells us that users level is appropriate to access restricted services of very high value, Level 2 let's users access documents and services which are of a high a value but no the highest, Level 3 is where the secure authentication protocol is needed so we know who is accessing what, Level 4 there is little to no authentication at this level there is no confidence in the asserted identity's validity.
 
 - B.) Assurance Level 1-4 are all the same they all have some confidence in the asserted identity's validity. The main thing is that each level is based on the user's username for their organization.
 
@@ -1338,7 +1339,7 @@ A rootkit can be classified into which of the following characteristics:
 - A.) Persistent
 - B.) Memory Based
 - C.) User Mode
-- D.)Kernel Mode
+- D.) Kernel Mode
 - E.) Virtual Machine based
 - F.) External Mode
 - G.) All of the above
@@ -1371,7 +1372,7 @@ Question:
 What type of rootkit can not survive a reboot and why not?
 
 - A.) Kernel Mode and because there is no user intervention
-- B.)Persistent and because the firewall flushes the rootkit out
+- B.) Persistent and because the firewall flushes the rootkit out
 - C.) Memory based and there is no persistent code
 - D.) External Mode and because it is located in the BIOS
 
